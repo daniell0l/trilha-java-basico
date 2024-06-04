@@ -25,15 +25,19 @@ Para executar o projeto, siga os passos abaixo:
 1. **Clone o repositório:**
    ```sh
    git clone git@github.com:daniell0l/trilha-java-basico.git
+    ```
+
+   Depois vai para a pasta clonada
+    ```
    cd trilha-java-basico
     ```
 
-2. **Compile o projeto:**
+3. **Compile o projeto:**
     ```sh
     javac -d bin -sourcepath src/main/java src/main/java/com/contabanco/application/ContaTerminal.java
     ```
 
-3. **Execute a aplicação:**
+4. **Execute a aplicação:**
     ```sh
     java -cp bin com.contabanco.application.ContaTerminal
     ```
