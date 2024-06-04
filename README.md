@@ -46,3 +46,19 @@ Após inserir os dados, a aplicação exibirá a seguinte mensagem:
 ```
 Olá daniel, obrigado por criar uma conta em nosso banco, sua agência é 123-1, conta 1234 e seu saldo 1210.0 já está disponível para saque.
 ```
+
+## Requisitos
+- Java 11 ou superior
+- Git
+
+## Contribuição
+Se você quiser contribuir com o projeto, siga os passos abaixo:
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch com a sua feature: git checkout -b minha-feature
+3. Commit suas mudanças: git commit -m 'Adiciona minha feature'
+4. Faça um push para a branch: git push origin minha-feature
+5. Abra um Pull Request.
+
+Contato
+Para dúvidas ou sugestões, entre em contato através do email: daniel_l0l@hotmail.com
